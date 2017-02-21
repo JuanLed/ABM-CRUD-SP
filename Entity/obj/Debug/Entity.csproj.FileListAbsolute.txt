@@ -1,0 +1,5 @@
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\Entity\bin\Debug\Entity.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\Entity\bin\Debug\Entity.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\Entity\obj\Debug\Entity.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\Entity\obj\Debug\Entity.pdb

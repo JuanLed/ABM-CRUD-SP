@@ -1,0 +1,7 @@
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaDatos\bin\Debug\Entity.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaDatos\bin\Debug\Entity.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaDatos\obj\Debug\CapaDatos.pdb

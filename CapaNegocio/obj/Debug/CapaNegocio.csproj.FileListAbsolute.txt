@@ -1,0 +1,9 @@
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaNegocio\bin\Debug\Entity.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaNegocio\bin\Debug\Entity.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM_SP\CapaNegocio\obj\Debug\CapaNegocio.pdb
